@@ -1,47 +1,20 @@
-# Beamer Theme for Fudan
+# Beamer Theme for SYSU
 
-Unofficial beamer theme for Fudan
+Unofficial beamer theme for SYSU
 
 ## Get Start
-```latex
-\documentclass{beamer}
-\usetheme{fdu}
 
-%%% Titlepage information
-\title[Short Title]{Long Title Here}
-\author[Presenter Name]{\textbf{Presenter Name} \and Author2 \and Author3}
-\institute[Fudan University]{
-    School of Computer Science, Fudan University, Shanghai, China \\
-    Shanghai Key Laboratory of Data Science, Shanghai, China \\
-    Shanghai Institute of Intelligent Electronics \& Systems \\~\\
-    % Thanks funding here
-    \tiny{This work is partially supported by xxx}
-}
+The `example.tex` is the main tex template
 
-\begin{document}
-\begin{frame}
-    \titlepage
-\end{frame}
-\end{document}
-```
+The `beamerthemesys.sty` is the setting of sysu beamer theme
 
-[You can click here to see the whole example.pdf](https://github.com/sonnyhcl/beamerthemefdu/blob/master/example.pdf)
+[You can click here to see the whole example.pdf](https://github.com/funskr/SYSU-beammer-theme/example.pdf)
 
 ## Todo List
-- [x] 中文支持
-- [x] Usage Example
-    - [x] itemize
-    - [x] enumerate
-    - [x] columns
-    - [x] images
-    - [x] animation
-    - [x] cite
-    - [x] block
-    - [x] algorithm
-    - [x] code
-    - [x] tikz
-    - [x] equation
-    - [x] foot cite
+none for present
 
 ## Contribute
-[Feel free to issue here](https://github.com/sonnyhcl/beamerthemefdu/issues)
+[Feel free to issue here](https://github.com/funskr/SYSU-beammer-theme/issues)
+
+## reference
+[the sonnyhcl fudan beamer theme](https://github.com/sonnyhcl/beamerthemefdu)
