@@ -1,3 +1,0 @@
-\frametitle{source code}
-\lstinputlisting[language=C,caption=C code example]{resources/hello.c}
-  you should pass the option fragile to the frame environment.
