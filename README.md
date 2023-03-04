@@ -8,7 +8,7 @@ The `example.tex` is the main tex template
 
 The `beamerthemesys.sty` is the setting of sysu beamer theme
 
-[You can click here to see the whole example.pdf](https://github.com/funskr/SYSU-beammer-theme/example.pdf)
+[You can click here to see the whole example.pdf](https://github.com/funskr/SYSU-beammer-theme/blob/main/example.pdf)
 
 ## Todo List
 none for present
